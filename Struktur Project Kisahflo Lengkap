@@ -1,0 +1,20 @@
+KisahfloApp/
+│
+├── App.js
+├── styles.js
+│
+├── screens/
+│   ├── SubscriptionHubScreen.js
+│   ├── WalletHubScreen.js
+│   ├── NotificationCenterScreen.js
+│   ├── SettingsHubScreen.js
+│   ├── IntegrationHubScreen.js
+│   ├── PremiumAnalyticsHubScreen.js
+│   ├── TrendExplorerHubScreen.js
+│   ├── ContentPerformanceHubScreen.js
+│   ├── AudienceGrowthHubScreen.js
+│   ├── RevenueStreamsHubScreen.js
+│   ├── CollaborationHubScreen.js
+│   ├── MentorshipHubScreen.js
+│   ├── CareerHubScreen.js
+│   └── TalentShowcaseHubScreen.js
